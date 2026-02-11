@@ -1,0 +1,143 @@
+{
+  "RC202602123728D7": {
+    "reservation_id": "RC202602123728D7",
+    "user_id": "+917200809026",
+    "name": "Sanjay",
+    "people": 50,
+    "date": "14-02-2026",
+    "time": "7:00 PM",
+    "event": "party",
+    "menu_pack": "deluxe",
+    "menu_pack_details": {
+      "name": "\ud83d\udc51 Deluxe Party Pack",
+      "price_per_person": 999,
+      "items": [
+        "Welcome Mocktail Counter",
+        "Live Chaat & Tandoor",
+        "10+ Starter Varieties",
+        "Veg & Non-Veg Main Course",
+        "Multiple Biryani Options",
+        "Live Pasta Counter",
+        "Dessert Buffet",
+        "Special Paan Counter"
+      ]
+    },
+    "addons": [],
+    "addon_details": [],
+    "seating": {
+      "type": "mini_hall",
+      "tables": 7,
+      "hall": "Mini Banquet Hall",
+      "layout": "\n    \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557\n    \u2551   MINI BANQUET HALL   \u2551\n    \u2551  \u250c\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2510   \u2551\n    \u2551  \u2502 T \u2502 \u2502 T \u2502 \u2502 T \u2502   \u2551\n    \u2551  \u2514\u2500\u2500\u2500\u2518 \u2514\u2500\u2500\u2500\u2518 \u2514\u2500\u2500\u2500\u2518   \u2551\n    \u2551  \u250c\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2510   \u2551\n    \u2551  \u2502 T \u2502 \u2502 T \u2502 \u2502 T \u2502   \u2551\n    \u2551  \u2514\u2500\u2500\u2500\u2518 \u2514\u2500\u2500\u2500\u2518 \u2514\u2500\u2500\u2500\u2518   \u2551\n    \u2551    \ud83c\udf7d\ufe0f BUFFET AREA    \u2551\n    \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d\n       Capacity: 60 | Guests: 50\n"
+    },
+    "base_cost": 49950,
+    "addon_cost": 0,
+    "total_cost": 49950,
+    "status": "confirmed",
+    "created_at": "2026-02-12T02:32:30.910231",
+    "restaurant": "Royal Chef's Restaurant"
+  },
+  "RC202602123480F2": {
+    "reservation_id": "RC202602123480F2",
+    "user_id": "789",
+    "name": "Sanjay",
+    "people": 10,
+    "date": "14-02-2026",
+    "time": "5:00 PM",
+    "event": "birthday",
+    "menu_pack": "deluxe",
+    "menu_pack_details": {
+      "name": "\ud83d\udc51 Deluxe Party Pack",
+      "price_per_person": 999,
+      "items": [
+        "Welcome Mocktail Counter",
+        "Live Chaat & Tandoor",
+        "10+ Starter Varieties",
+        "Veg & Non-Veg Main Course",
+        "Multiple Biryani Options",
+        "Live Pasta Counter",
+        "Dessert Buffet",
+        "Special Paan Counter"
+      ]
+    },
+    "addons": [
+      "decoration",
+      "cake"
+    ],
+    "addon_details": [
+      {
+        "key": "decoration",
+        "name": "\ud83c\udf80 Table Decoration",
+        "price": 1500
+      },
+      {
+        "key": "cake",
+        "name": "\ud83c\udf82 Birthday Cake (1kg)",
+        "price": 800
+      }
+    ],
+    "seating": {
+      "type": "table",
+      "tables": 2,
+      "hall": null,
+      "layout": "\n    \u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e \u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e\n    \u2502 \ud83e\ude91T1 \ud83e\ude91\u2502 \u2502 \ud83e\ude91T2 \ud83e\ude91\u2502\n    \u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256f \u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256f\n         10 Guests\n"
+    },
+    "base_cost": 9990,
+    "addon_cost": 2300,
+    "total_cost": 12290,
+    "status": "confirmed",
+    "created_at": "2026-02-12T02:47:34.884019",
+    "restaurant": "Royal Chef's Restaurant"
+  },
+  "RC20260212EA1D46": {
+    "reservation_id": "RC20260212EA1D46",
+    "user_id": "+917200809026",
+    "name": "Sanjay",
+    "people": 55,
+    "date": "31-03-2026",
+    "time": "6:00 PM",
+    "event": "birthday",
+    "menu_pack": "veg",
+    "menu_pack_details": {
+      "name": "\ud83e\udd57 Vegetarian Pack",
+      "price_per_person": 399,
+      "items": [
+        "Paneer Butter Masala",
+        "Dal Makhani",
+        "Veg Biryani",
+        "Naan & Tandoori Roti",
+        "Raita & Papad",
+        "Gulab Jamun",
+        "Welcome Drink"
+      ]
+    },
+    "addons": [
+      "decoration",
+      "photography"
+    ],
+    "addon_details": [
+      {
+        "key": "decoration",
+        "name": "\ud83c\udf80 Table Decoration",
+        "price": 1500
+      },
+      {
+        "key": "photography",
+        "name": "\ud83d\udcf8 Photography",
+        "price": 2500
+      }
+    ],
+    "seating": {
+      "type": "mini_hall",
+      "tables": 7,
+      "hall": "Mini Banquet Hall",
+      "layout": "\n    \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557\n    \u2551   MINI BANQUET HALL   \u2551\n    \u2551  \u250c\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2510   \u2551\n    \u2551  \u2502 T \u2502 \u2502 T \u2502 \u2502 T \u2502   \u2551\n    \u2551  \u2514\u2500\u2500\u2500\u2518 \u2514\u2500\u2500\u2500\u2518 \u2514\u2500\u2500\u2500\u2518   \u2551\n    \u2551  \u250c\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2510   \u2551\n    \u2551  \u2502 T \u2502 \u2502 T \u2502 \u2502 T \u2502   \u2551\n    \u2551  \u2514\u2500\u2500\u2500\u2518 \u2514\u2500\u2500\u2500\u2518 \u2514\u2500\u2500\u2500\u2518   \u2551\n    \u2551    \ud83c\udf7d\ufe0f BUFFET AREA    \u2551\n    \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d\n       Capacity: 60 | Guests: 55\n"
+    },
+    "base_cost": 21945,
+    "addon_cost": 4000,
+    "total_cost": 25945,
+    "status": "confirmed",
+    "created_at": "2026-02-12T02:55:18.297911",
+    "restaurant": "Royal Chef's Restaurant"
+  }
+}

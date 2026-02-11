@@ -1,0 +1,18 @@
+{
+  "+917200809026": {
+    "first_visit": "2026-02-12T02:32:30.911689",
+    "total_bookings": 2,
+    "name": "Sanjay",
+    "last_visit": "2026-02-12T02:55:18.300124",
+    "last_guests": 55,
+    "last_menu_pack": "veg"
+  },
+  "789": {
+    "first_visit": "2026-02-12T02:47:34.885507",
+    "total_bookings": 1,
+    "name": "Sanjay",
+    "last_visit": "2026-02-12T02:47:34.885518",
+    "last_guests": 10,
+    "last_menu_pack": "deluxe"
+  }
+}

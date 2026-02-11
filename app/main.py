@@ -3,6 +3,7 @@ FastAPI WhatsApp Bot Backend for Restaurant Reservations.
 Integrates with Twilio for WhatsApp messaging.
 """
 
+import os
 import logging
 import hmac
 import hashlib
@@ -174,7 +175,6 @@ async def whatsapp_webhook(
         
         # Return error response
         return "Sorry, something went wrong. Please try again in a moment."
-        return str(response)
 
 
 @app.post("/webhook", response_class=PlainTextResponse)
@@ -371,10 +371,13 @@ async def general_exception_handler(request: Request, exc: Exception):
 if __name__ == "__main__":
     import uvicorn
     
+    # Get port from environment variable (Render provides PORT)
+    port = int(os.environ.get("PORT", 10000))
+    
     uvicorn.run(
-        "main:app",
+        "app.main:app",
         host="0.0.0.0",
-        port=8000,
-        reload=settings.DEBUG_MODE,
-        log_level="debug" if settings.DEBUG_MODE else "info"
+        port=port,
+        reload=False,
+        log_level="info"
     )
